@@ -73,4 +73,4 @@ The workflow is compatible with AWS, Azure, and Google Cloud, and follows these 
 - **Cloud Tools:** Use Azure DevOps or AWS CodePipeline for automated deployment with validation tests.
 
 ## Workflow Diagram
-![MLOps Workflow]([MLOPS_DIAGRAM.drawio.png])
+![MLOps Workflow](MLOPS_DIAGRAM.drawio.png)
